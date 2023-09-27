@@ -1,5 +1,8 @@
+import "./App.scss";
+import Carousel from "./components/carousel";
+
 function App() {
-  return <div>Hi from PodBox!</div>;
+  return <Carousel />;
 }
 
 export default App;
